@@ -23,3 +23,9 @@ With color alone we don't even need to tweak the header sizes:
 
 * ![Best](select_civ_britons_best.png)
 
+# TL:DR;
+
+Here is a summary comparing _What we wanted_ vs _What we got_:
+
+* ![What we wanted vs what we got](what_we_wanted_vs_what_we_got.png)
+
