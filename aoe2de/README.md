@@ -13,7 +13,12 @@ Game: [Age of Empires II: Definitive Edition](https://store.steampowered.com/app
 Good UI has a good S:N:~N (Signal:Noise:Anti-Noise) ratio.
 
 * Increase header sizes, and/or
-* Add a splash of color to highlight the numeric values gamers _actually_ care about
+* Add a _splash_ of color to highlight the numeric values gamers _actually_ care about
+
+Color is like seasoning.
+
+* Too _little_ and everything is bland (like the original)
+* Too _much_ and it over-powers everything else.
 
 For example, even highlighting the numeric values while leaving the headers size alone is an improvement:
 
@@ -25,7 +30,15 @@ With color alone we don't even need to tweak the header sizes:
 
 # TL:DR;
 
-Here is a summary comparing _What we wanted_ vs _What we got_:
+Here is a summary comparing _What we got_ vs _What we wanted_:
 
-* ![What we wanted vs what we got](what_we_wanted_vs_what_we_got.png)
+* ![What we got vs what we wanted](what_we_got_vs_what_we_wanted.png)
 
+# History
+
+Changed order so that the comparison picture now shows:
+
+* Actual
+* Expected
+
+Last updated: Version 2, Nov 18, 2020.
