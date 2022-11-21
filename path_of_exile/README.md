@@ -2,7 +2,7 @@ Game: [Path of Exile](https://www.pathofexile.com/)
 
 # WHAT is bad:
 
-NPC Lilly Roth sells red gems, green gems, blue gems, white gemes, and in Endless Delive currency.  These are in different tabs.
+NPC Lilly Roth sells red gems, green gems, blue gems, white gems, and in Endless Delive currency.  These are in different tabs.
 
 # WHY it is bad:
 
